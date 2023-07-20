@@ -1,0 +1,5 @@
+Django==3.2.6
+djangorestframework==3.14.0
+drf-yasg==1.21.6
+py2neo==2021.2.3
+django_neomodel==0.0.4
